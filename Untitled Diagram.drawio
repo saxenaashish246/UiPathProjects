@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:57:23.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="IIbihFRKwI4Ip60wOOV8" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T08:00:43.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="UAND1nDoTav9fljJs6dK" version="18.1.2" type="github">
   <diagram id="Izmj4GPz0lvRZYQUVih_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,11 +27,20 @@
         <mxCell id="cWEXN-bF3hbhIx2hcadV-8" value="Close Application -&amp;nbsp;&lt;br&gt;&lt;b&gt;Chrome , Excel&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=11;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="120" y="278" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-9" target="cWEXN-bF3hbhIx2hcadV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/8-128.png;fontSize=11;fontColor=#330000;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="310" y="208" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-10" value="Read the Configuration &lt;br&gt;File" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=11;fontColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="280" y="287" width="130" height="30" as="geometry" />
+          <mxGeometry x="280" y="288" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontColor=#330000;strokeColor=default;rotation=90;sketch=0;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="360" height="237" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-14" value="Initialize Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="288" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
