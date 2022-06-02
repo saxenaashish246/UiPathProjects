@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T12:52:47.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="rHASNTsQP5DGMJqWYS85" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T13:12:48.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="1tfylikR8qdmt8UUkzLc" version="18.1.2" type="github">
   <diagram id="Izmj4GPz0lvRZYQUVih_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -731,6 +731,114 @@
         </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-263" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Enter Rating&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="186.7" y="3635" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="336" y="3798.5" as="targetPoint" />
+            <mxPoint x="264.20000000000005" y="3798.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-272" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Navigate To VMS &lt;br&gt;Portal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="171" y="3834" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-274">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="476" y="3798.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-274" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699505-icon-27-one-finger-click-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="341" y="3769.5" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-275" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Click&amp;nbsp; on&amp;nbsp;&lt;br&gt;&amp;nbsp;Vendor Compliance &lt;br&gt;Form&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="3827.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.086;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-277" target="cWEXN-bF3hbhIx2hcadV-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-277" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/atrous/512/search_binoculars_find-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="477" y="3769.5" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-278" value="Click&amp;nbsp; On&amp;nbsp;&lt;br&gt;Find Icon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="471.5" y="3837.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-280" target="cWEXN-bF3hbhIx2hcadV-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="3800" />
+              <mxPoint x="680" y="3952" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-280" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-2/24/frame-select-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="596" y="3776" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-281" value="Select Provider &lt;br&gt;from Dropdown" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="579" y="3834" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-283">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521" y="3951.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-283" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/pen-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="597" y="3920" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-284" value="Enter Provider&amp;nbsp;&lt;br&gt;Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="581" y="3978" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-286">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="3951.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-286" value="Find" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rounded=0;sketch=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="452" y="3931.5" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-287" value="Click On&lt;br&gt;Find Button" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3978" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#330000;" edge="1" parent="1" target="cWEXN-bF3hbhIx2hcadV-292">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="3953" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-292" target="cWEXN-bF3hbhIx2hcadV-303">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="3953" />
+              <mxPoint x="150" y="4240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-292" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-calendar-edit-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="212" y="3924" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-293" value="Click On &lt;br&gt;Edit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="211" y="3982" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-297" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Create Generic CAP&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="536" y="3730" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-300" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/navigate-sharp-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="189" y="3773" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-301" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Hard_hat_mine_cap_mine_hat_mine_helmet_miner_hat-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="328" y="3921" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-302" value="Click On Generic&amp;nbsp;&lt;br&gt;CAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="3978" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-303" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="268" y="4100" width="171" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-304" value="For Each Records - Open Non-Compliance&amp;nbsp; and &lt;br&gt;New Non Compliances" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="243.2" y="4070" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-307" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_add_box_48px-128.png;rounded=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="378" y="4109.5" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-308" value="&lt;span style=&quot;&quot;&gt;Click On Add&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="289" y="4120" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
