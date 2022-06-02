@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T11:22:55.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="_nuhmnv5xD2Vzg27EXRq" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T11:59:26.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="fdNPOnts1WeMGvqIoMMz" version="18.1.2" type="github">
   <diagram id="Izmj4GPz0lvRZYQUVih_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -460,6 +460,15 @@
         </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-153" value="Facility Score &lt;br&gt;&amp;gt;=85 %" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="576" y="2596" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="776" y="1910" />
+              <mxPoint x="595" y="1910" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-158" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/coronavirus-disease-highlight/128/Working-online-laptop-freelancer-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="752" y="2316" width="48" height="48" as="geometry" />
