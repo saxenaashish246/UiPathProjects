@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T10:50:45.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="48GYNaR3xB5XQmbglZ2w" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T11:22:55.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="_nuhmnv5xD2Vzg27EXRq" version="18.1.2" type="github">
   <diagram id="Izmj4GPz0lvRZYQUVih_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-164" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="87" y="2290" width="753" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="1180" width="670" height="570" as="geometry" />
         </mxCell>
@@ -360,11 +363,112 @@
         <mxCell id="cWEXN-bF3hbhIx2hcadV-128" value="Save File to the &lt;br&gt;Shared Path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="589" y="2204" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-129" target="cWEXN-bF3hbhIx2hcadV-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-129" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="106" y="2110" width="594" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-130" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Download the GSV Report&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="480" y="2110" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="2336.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-131" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.adobe_pdf;fillColor=#F40C0C;gradientColor=#610603;rounded=0;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=#330000;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="106" y="2310" width="61.4" height="52.4" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-135" value="Read PDF File - &lt;br&gt;GSV Report" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="86.69999999999999" y="2370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="2340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-136" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2310" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-139" value="Save the file &lt;br&gt;data to Variable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="245" y="2370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-141" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-74/24/002_-_Search-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="397" y="2310" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-142" target="cWEXN-bF3hbhIx2hcadV-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-156" value="Invalid&amp;nbsp; GSV Report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" connectable="0" parent="cWEXN-bF3hbhIx2hcadV-146">
+          <mxGeometry x="-0.2256" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-142" target="cWEXN-bF3hbhIx2hcadV-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-151" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" connectable="0" parent="cWEXN-bF3hbhIx2hcadV-148">
+          <mxGeometry x="0.1864" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-142" value="Check If&amp;nbsp; File Data Consist - &lt;br&gt;&quot;Global Security Verification Report&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2388" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-147" target="cWEXN-bF3hbhIx2hcadV-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-147" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/get-pocket-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="429" y="2536" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-149" value="Retrieve the &lt;br&gt;Overall Facility Score" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="395" y="2596" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-162" value="No Need of CAP Creation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" connectable="0" parent="cWEXN-bF3hbhIx2hcadV-161">
+          <mxGeometry x="0.196" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-169" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" connectable="0" parent="cWEXN-bF3hbhIx2hcadV-161">
+          <mxGeometry x="-0.5913" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-150" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/percent-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="612" y="2538.5" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-153" target="cWEXN-bF3hbhIx2hcadV-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="2576" />
+              <mxPoint x="652" y="2576" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-170" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" connectable="0" parent="cWEXN-bF3hbhIx2hcadV-168">
+          <mxGeometry x="0.506" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-153" value="Facility Score &lt;br&gt;&amp;gt;=85 %" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="576" y="2596" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-158" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/coronavirus-disease-highlight/128/Working-online-laptop-freelancer-128.png;rounded=0;dashed=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="752" y="2316" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-163" value="Raise &lt;br&gt;Business &lt;br&gt;Exception" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-171" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Validation of GSV Report&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="564" y="2290" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
