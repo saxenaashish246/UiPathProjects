@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T13:30:07.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="dozTurngvheQl6ZBkd0M" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T13:43:36.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="80GpH68bnVrRCIlSPzLl" version="18.1.2" type="github">
   <diagram id="Izmj4GPz0lvRZYQUVih_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-325" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119" y="3720" width="587" height="1000" as="geometry" />
+        </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-212">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="3230" as="targetPoint" />
@@ -866,6 +869,34 @@
         </mxCell>
         <mxCell id="cWEXN-bF3hbhIx2hcadV-324" value="VMSCollaboration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="496" y="4790" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-326">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="4867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-326" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrows-set-12/512/sendarrow-128.png;rounded=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4840" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-327" value="Go To VMS Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="135" y="4900" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#330000;" edge="1" parent="1" source="cWEXN-bF3hbhIx2hcadV-328">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="4868.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-328" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Communication_discussion_online_collaboration_social_media_users-128.png;rounded=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289" y="4840" width="56.5" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-329" value="Click On &lt;br&gt;Collaboration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="4900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-332" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/geosm-e-commerce/48/add-128.png;rounded=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#330000;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="422" y="4843.25" width="56.75" height="56.75" as="geometry" />
+        </mxCell>
+        <mxCell id="cWEXN-bF3hbhIx2hcadV-335" value="Click On &lt;br&gt;New" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="417" y="4900" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
